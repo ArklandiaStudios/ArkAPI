@@ -1,0 +1,6 @@
+﻿name: ArkAPI
+version: 1.0.0
+main: com.arklandia.arkapi.ArkAPI
+api-version: '1.21'
+folia-supported: true
+
